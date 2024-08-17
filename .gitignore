@@ -1,6 +1,7 @@
 plots*
 playground/
 trash/
+epoch_data/epoch_trapped_UH.npz
 
 ##############################
 # Python gitignore stuff #
